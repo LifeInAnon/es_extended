@@ -2,6 +2,7 @@
 FUSED WITH ESSENTIALMODE
 
 es_extended has been reported by DCMA for using Essentialmode without their permission and has been compiled all in one. (FUCK FIVEM)
+Here I bring you the latest update before being deleted by the DCMA
 
 
 
