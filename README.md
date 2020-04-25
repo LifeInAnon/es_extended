@@ -1,6 +1,10 @@
 # es_extended
 FUSED WITH ESSENTIALMODE
 
+es_extended has been reported by DCMA for using Essentialmode without their permission and has been compiled all in one. (FUCK FIVEM)
+
+
+
 es_extended is a roleplay framework for FiveM. ESX is short for EssentialMode Extended. The to-go framework for creating an economy based roleplay server on FiveM and most popular on the platform, too!
 
 Featuring many extra resources to fit roleplaying servers, here's a taste of what's available:
